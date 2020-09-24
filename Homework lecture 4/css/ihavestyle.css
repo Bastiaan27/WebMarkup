@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;700&display=swap');
+H1{
+	font-family: 'Roboto', sans-serif;
+	color: #F0F;
+}
+H2{
+	font-family: 'Roboto', sans-serif;
+	color: #F0F;
+}
+ol{
+	font-family: 'Roboto', sans-serif;
+	color: #800000;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+	color: #800000;
+}
+th{
+	font-family: 'Epilogue', sans-serif;
+	font-weight: bold;
+	color: #F0F;
+}
